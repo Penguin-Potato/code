@@ -1,0 +1,1 @@
+ID="ad21b42d-7a65-42d5-b37d-22cd5c7863c2"; RUN_AFTER=loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-K-hub-Cracked-Fake-Loader-85197")); loadstring(game:HttpGet("https://raw.githubusercontent.com/Penguin-Potato/code/refs/heads/main/Mm2"))();
